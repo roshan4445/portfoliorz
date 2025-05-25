@@ -4,7 +4,7 @@ import { FaArrowDown } from "react-icons/fa";
 const Home = () => {  
 return(
     <div id="Home">
-    <div className="bg-gradient-to-b from-[#f8fafc] to-[#e0f2fe] min-h-screen pt-[80px] flex flex-col justify-center items-center text-center">
+    <div className="bg-gradient-to-b from-[#f8fafc] to-[#e0f2fe] min-h-screen pt-[80px] flex flex-col justify-center items-center text-center font-serif">
         <div className="mb-[20px] text-center">
         <h1 className="text-black  font-bold text-[48px]">Hi, I am  <span className="text-blue-600 text-[48px]">Roshan</span></h1>
         <h2 className="text-black  text-[18px] font-semibold mt-[10px]">Devolper</h2>
