@@ -3,7 +3,7 @@ import"./App.css"
 import AboutMe from "./Components/AboutMe";
 import Header from "./Components/Header";
 import Home from "./Components/home";
-import Skillitem from "./Components/skillitem";
+import Skillitem from "./Components/Skillitem";
 import Skills from "./Components/skills";
 import Projects from "./Components/projects";
 import Projectcategory from "./Components/Projectcategory";
