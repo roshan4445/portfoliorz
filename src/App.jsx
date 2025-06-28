@@ -5,7 +5,7 @@ import Header from "./Components/Header";
 import Home from "./Components/home";
 import Skillitem from "./Components/Skillitem";
 import Skills from "./Components/skills";
-import Projects from "./Components/projects";
+import Projects from "./Components/Projects";
 import Projectcategory from "./Components/Projectcategory";
 import Contactme from "./Components/Contactme";
 import Footer from "./Components/Footer";
