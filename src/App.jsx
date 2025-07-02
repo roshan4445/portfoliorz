@@ -89,7 +89,7 @@ const projectsList = [{'projectId': 0, 'category': 'STATIC', 'imageURL': 'https:
      {'projectId': 9, 'category': 'DYNAMIC', 'imageURL': 'https://assets.ccbp.in/frontend/react-js/projects-d1-img.png', 'title': 'Random Joke Page', 'description': 'Random Joke Page is an API-based dynamic Web Application that generates a new joke.', 'tech': ['html', 'CSS', 'JavaScript']},
       {'projectId': 10, 'category': 'DYNAMIC', 'imageURL': 'https://assets.ccbp.in/frontend/react-js/projects-d2-img.png', 'title': 'Sizing An Image', 'description': 'This is a dynamic web application capable of adjusting the size of an element using DOM manipulations.', 'tech': ['html', 'CSS', 'JavaScript']},
       {'projectId': 11, 'category': 'DYNAMIC', 'imageURL': 'https://cdn-icons-png.flaticon.com/128/6352/6352655.png', 'title': 'TicTacToe', 'description': 'This is a game of X and O', 'tech': ['html', 'CSS', 'JavaScript']},
-      {'projectId': 12, 'category': 'DYNAMIC', 'imageURL': 'https://cdn-icons-png.flaticon.com/128/11538/11538682.png', 'title': 'TicTacToe', 'description': 'This is a web app which converts one timezone to other timezone', 'tech': ['html', 'CSS', 'JavaScript']}
+      {'projectId': 12, 'category': 'DYNAMIC', 'imageURL': 'https://cdn-icons-png.flaticon.com/128/11538/11538682.png', 'title': 'TimeZoneConverter    ', 'description': 'This is a web app which converts one timezone to other timezone', 'tech': ['html', 'CSS', 'JavaScript']}
     ]
 
 
